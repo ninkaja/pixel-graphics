@@ -4,5 +4,9 @@
 
 * Usually a folder is a collection contain `.mdp` file which can be read by free software call [FireAlpaca](http://firealpaca.com/), a pack file of all the images, and all the individual images.
 
+## Newest Collection: SWORDS
+![swords](https://raw.githubusercontent.com/ninkaja/pixel-graphics/master/swords/swords.png)
+
+## LICENSE
 * All the code are distributed under MIT license
 * All the assets - Copyright @ NINKAJA distributed under [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
